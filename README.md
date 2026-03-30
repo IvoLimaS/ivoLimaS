@@ -9,7 +9,7 @@ Me chamo Ivo Henrique, sou estudante de Engenharia da Computação pela Universi
 ---
 ### 📊 Estatísticas
 
-![IvoLimaS GitHub stats](https://github-readme-stats.vercel.app/api?username=IvoLimaS&show_icons=true&theme=dark)
+![IvoLimaS GitHub stats](./profile/stats.svg)
 
 ### 💻 Linguagens e Tecnologias
 <img 
